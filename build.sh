@@ -1,1 +1,1 @@
-ng build --prod --base-href "/"
+ng build --prod --base-href "kalanavw"

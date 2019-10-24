@@ -3,7 +3,7 @@
     {{aboutMe?.title}}
   </div>
   <div class="card-body">
-    <p class="card-text" style="text-align: justify">{{aboutMe?.content}}</p>
+    <p [innerHTML]="aboutMe.content" class="card-text" style="text-align: justify"></p>
   </div>
 </div>
 <br>

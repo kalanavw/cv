@@ -7,7 +7,7 @@
       <li *ngFor="let project of projects.projects">
         <h6 style="font-weight:  bold">{{project.name}}</h6>
         <h6>
-          <span *ngFor="let module of project.modules">{{module}}</span>
+          <span *ngFor="let module of project.modules"><i>{{module}}</i></span>
         </h6>
         <a *ngFor="let tag of project.tecTags" class="badge badge-pill {{tag.color}}" href="{{tag.url}}"
            style="margin-left: 10px" target="_blank"><b>{{tag.name}}</b></a>

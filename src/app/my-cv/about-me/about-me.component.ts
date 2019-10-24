@@ -31,6 +31,7 @@ export class AboutMeComponent implements OnInit {
     this.http.get(this.configService.CONFIG.aboutMe_json, httpOptions)
       .subscribe((value: AboutMe) => {
         this.aboutMe = value;
+        this.aboutMe.content = this.aboutMe.content.replace(/(?:\r\n|\r|\n)/g, '<br>');
       }, error => {
         console.log(error);
       });
