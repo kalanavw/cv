@@ -27,7 +27,10 @@ export class RefereeComponent implements OnInit {
     private configService: ConfigService,
     private http: HttpClient,
   ) {
-
+    this.referee = {
+      title: '',
+      referees: null
+    };
   }
 
   ngOnInit() {

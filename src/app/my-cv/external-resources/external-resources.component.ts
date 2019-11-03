@@ -23,7 +23,10 @@ export class ExternalResourcesComponent implements OnInit {
     private configService: ConfigService,
     private http: HttpClient,
   ) {
-
+    this.externalResource = {
+      title: '',
+      resource: null
+    };
   }
 
   ngOnInit() {
