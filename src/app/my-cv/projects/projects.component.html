@@ -1,0 +1,21 @@
+<div class="card">
+  <div class="card-header">
+    {{projects?.title}}
+  </div>
+  <div class="card-body">
+    <ul class="timeline">
+      <li *ngFor="let project of projects.projects">
+        <h6 style="font-weight:  bold">{{project.name}}</h6>
+        <h6>
+          <span *ngFor="let module of project.modules">{{module}}</span>
+        </h6>
+        <a *ngFor="let tag of project.tecTags" class="badge badge-pill {{tag.color}}" href="{{tag.url}}"
+           style="margin-left: 10px" target="_blank"><b>{{tag.name}}</b></a>
+        <p>
+          {{project.description}}
+        </p>
+      </li>
+    </ul>
+  </div>
+</div>
+<br>

@@ -1,0 +1,17 @@
+<div class="card">
+  <div class="card-header">
+    {{experience?.title}}
+  </div>
+  <div class="card-body">
+    <ul class="timeline">
+      <li *ngFor="let experience of experience.experience">
+        <h6 style="font-weight:  bold">{{experience.position}}</h6>
+        <h5>{{experience.companyName}}</h5>
+        <label class="text-primary">{{experience.from}} - {{experience.to}}</label><br>
+        <label *ngFor="let tag of experience.tecTags" class="badge badge-pill badge-primary" href="#"
+               target="_blank">{{tag}}</label>
+      </li>
+    </ul>
+  </div>
+</div>
+<br>

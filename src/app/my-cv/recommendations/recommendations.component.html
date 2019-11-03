@@ -1,0 +1,27 @@
+<div class="card">
+  <div class="card-header">
+    {{recommendation?.title}}
+  </div>
+  <div class="card-body">
+    <ng-container *ngFor="let rec of recommendation.recommendations">
+      <div class="row">
+        <div class="col-xs-12 col-sm-4">
+          <p>
+            <b style="font-size: large">{{rec.name}}</b> <i>({{rec.degree}})</i>
+            <br> {{rec.position}}
+            <br> <span class="fa fa-envelope text-primary"> <a href="mailTo:{{rec.email}}"
+                                                               style="color: black"> {{' ' + rec.email}}</a> </span>
+            <br> <span class="fa fa-linkedin text-primary"> <a href="{{rec.linkedin}}" style="color: black"
+                                                               target="_blank"> {{' ' + rec.linkedin}}</a>  </span>
+          </p>
+        </div>
+        <div class="col-xs-12 col-sm-8"><p style="text-align: justify">
+          {{rec.recommendation}}
+        </p>
+        </div>
+      </div>
+      <hr>
+    </ng-container>
+  </div>
+</div>
+<br>

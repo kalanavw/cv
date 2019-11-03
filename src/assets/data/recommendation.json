@@ -1,0 +1,13 @@
+{
+  "title": "Recommendations",
+  "recommendations": [
+    {
+      "name": "string,",
+      "position": "string,",
+      "degree": "string,",
+      "email": "string,",
+      "linkedin": "string,",
+      "recommendation": "string"
+    }
+  ]
+}

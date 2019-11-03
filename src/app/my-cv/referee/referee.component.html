@@ -1,0 +1,24 @@
+<div class="card">
+  <div class="card-header">
+    {{referee?.title}}
+  </div>
+  <div class="card-body">
+    <div class="row">
+      <div *ngFor="let ref of referee.referees" class="col-xs-12 col-sm-6">
+        <p>
+          <b style="font-size: large">{{ref.name}}</b>
+          <br>{{ref.position}}
+          <br> {{ref.working}}
+          <br> <span class="fa fa-phone text-primary"><a href="tel:{{ref.mobile}}"
+                                                         style="color: black"> {{ref.mobile}}</a></span>
+          <br> <span class="fa fa-envelope text-primary"> <a href="mailTo:{{ref.email}}"
+                                                             style="color: black"> {{' ' + ref.email}}</a> </span>
+          <br> <span *ngIf="ref.linkedin" class="fa fa-linkedin text-primary"> <a href="{{ref.linkedin_url}}"
+                                                                                  style="color: black"
+                                                                                  target="_blank"> {{' ' + ref.linkedin}}</a>  </span>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+<br>
