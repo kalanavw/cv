@@ -1,0 +1,16 @@
+{
+  "title": "Education",
+  "education": [
+    {
+      "name": "Bachelor of Science (BSC)",
+      "institute": "University Of Ruhuna",
+      "from": "2014",
+      "to": "2016",
+      "tecTags": [
+        "Computer Science",
+        "Mathematics",
+        "Physics"
+      ]
+    }
+  ]
+}
