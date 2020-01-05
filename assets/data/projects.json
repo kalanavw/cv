@@ -2,39 +2,257 @@
   "title": "Projects",
   "projects": [
     {
-      "name": "ass sadas twwvwe",
+      "name": "SIBMS - Border Management System",
       "modules": [
-        "sadasd",
-        "asdasd"
+        "User Management, ",
+        "Border Control, ",
+        "Device Integration(Fingerprint scanner & Passport Scanner), ",
+        "Workflow Management System, ",
+        "Enforcement Module, ",
+        "Visa Management"
       ],
       "tecTags": [
         {
-          "name": "spring",
-          "color": "badge-primary",
-          "url": "https://getbootstrap.com/docs/4.0/components/badge/"
-        }
-      ],
-      "description": "asdasd adas asdas dasda adsdasasd a"
-    },
-    {
-      "name": "ass sadas twwvwe",
-      "modules": [
-        "sadasd",
-        "asdasd"
-      ],
-      "tecTags": [
-        {
-          "name": "spring",
-          "color": "badge-primary",
-          "url": "https://getbootstrap.com/docs/4.0/components/badge/"
+          "name": "Java",
+          "color": "badge-danger",
+          "url": "#"
         },
         {
-          "name": "spring",
+          "name": "Spring (Data, REST, Security)",
           "color": "badge-success",
-          "url": "https://getbootstrap.com/docs/4.0/components/badge/"
+          "url": "#"
+        },
+        {
+          "name": "Spring Boot",
+          "color": "badge-success",
+          "url": "#"
+        },
+        {
+          "name": "oAuth2",
+          "color": "badge-success",
+          "url": "https://oauth.net/2/"
+        },
+        {
+          "name": "Netflix Eureka",
+          "color": "badge-primary",
+          "url": "#"
+        },
+        {
+          "name": "Netflix Zuul",
+          "color": "badge-primary",
+          "url": "#"
+        },
+        {
+          "name": "Netflix Riboon",
+          "color": "badge-primary",
+          "url": "#"
+        },
+        {
+          "name": "Netflix Hystrics",
+          "color": "badge-primary",
+          "url": "#"
+        },
+        {
+          "name": "Activiti",
+          "color": "badge-success",
+          "url": "#"
+        },
+        {
+          "name": "BPMN2",
+          "color": "badge-primary",
+          "url": "#"
+        },
+        {
+          "name": "RabbitMQ",
+          "color": "badge-warning",
+          "url": "#"
+        },
+        {
+          "name": "Angular 6,8",
+          "color": "badge-danger",
+          "url": "#"
+        },
+        {
+          "name": "git",
+          "color": "badge-warning",
+          "url": "#"
+        },
+        {
+          "name": "maven",
+          "color": "badge-warning",
+          "url": "#"
+        },
+        {
+          "name": "tomcat",
+          "color": "badge-warning",
+          "url": "#"
+        },
+        {
+          "name": "Mysql",
+          "color": "badge-primary",
+          "url": "#"
+        },
+        {
+          "name": "PostgreSQL",
+          "color": "badge-primary",
+          "url": "#"
+        },
+        {
+          "name": "linux",
+          "color": "badge-warning",
+          "url": "#"
         }
       ],
-      "description": "asdasd adas asdas dasda adsdasasd a"
+      "description": "- Border management system for airports, Harbours and any other cross border gateways"
+    },
+    {
+      "name": "Pay gateway integration system - Department of Immigration and Emigration Sri Lanka",
+      "modules": [
+        "Visa, Amex Payment Gateway, ",
+        "Dashboard Module"
+      ],
+      "tecTags": [
+        {
+          "name": "Java",
+          "color": "badge-danger",
+          "url": "#"
+        },
+        {
+          "name": "Spring (Data, REST, Security)",
+          "color": "badge-success",
+          "url": "#"
+        },
+        {
+          "name": "Spring Boot",
+          "color": "badge-success",
+          "url": "#"
+        },
+        {
+          "name": "Angular 6",
+          "color": "badge-danger",
+          "url": "#"
+        },
+        {
+          "name": "ChartJs",
+          "color": "badge-warning",
+          "url": "https://www.chartjs.org/"
+        },
+        {
+          "name": "maven",
+          "color": "badge-warning",
+          "url": "#"
+        },
+        {
+          "name": "tomcat",
+          "color": "badge-warning",
+          "url": "#"
+        },
+        {
+          "name": "Mysql",
+          "color": "badge-primary",
+          "url": "#"
+        }
+      ],
+      "description": "- Integration platform to handle and work with multiple payment gateway service providers with automated reporting capabilities"
+    },
+    {
+      "name": "Workflow Management System - DFCC Bank, Union Bank, Seylan Bank",
+      "modules": [
+        "Automate Account Opening, ",
+        "Service Request Process, ",
+        "Personal Loan Process, ",
+        "RTGS Fund Transfer, ",
+        "Mobile & Online Banking, ",
+        "Cheque Book Generation"
+      ],
+      "tecTags": [
+        {
+          "name": "Java",
+          "color": "badge-danger",
+          "url": "#"
+        },
+        {
+          "name": "EJB",
+          "color": "badge-danger",
+          "url": "#"
+        },
+        {
+          "name": "Spring",
+          "color": "badge-success",
+          "url": "#"
+        },
+        {
+          "name": "JSP",
+          "color": "badge-danger",
+          "url": "#"
+        },
+        {
+          "name": "JSF",
+          "color": "badge-danger",
+          "url": "#"
+        },
+        {
+          "name": "Primefaces",
+          "color": "badge-primary",
+          "url": "#"
+        },
+        {
+          "name": "Hibernate",
+          "color": "badge-primary",
+          "url": "#"
+        },
+        {
+          "name": "Quartz Scheduling",
+          "color": "badge-warning",
+          "url": "#"
+        },
+        {
+          "name": "Activiti",
+          "color": "badge-success",
+          "url": "#"
+        },
+        {
+          "name": "BPMN2",
+          "color": "badge-primary",
+          "url": "#"
+        },
+        {
+          "name": "ChartJs",
+          "color": "badge-warning",
+          "url": "https://www.chartjs.org/"
+        },
+        {
+          "name": "maven",
+          "color": "badge-warning",
+          "url": "#"
+        },
+        {
+          "name": "Mysql",
+          "color": "badge-primary",
+          "url": "#"
+        },
+        {
+          "name": "SQL Server",
+          "color": "badge-primary",
+          "url": "#"
+        },
+        {
+          "name": "Oracle DB",
+          "color": "badge-danger",
+          "url": "#"
+        },
+        {
+          "name": "JBoss",
+          "color": "badge-danger",
+          "url": "https://www.jboss.org/"
+        },
+        {
+          "name": "Apache Clustering",
+          "color": "badge-success",
+          "url": "https://www.jboss.org/"
+        }
+      ],
+      "description": "- Integration platform to handle a process by breaking it down into component tasks"
     }
   ]
 }
