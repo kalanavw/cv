@@ -11,6 +11,18 @@
         "Mathematics",
         "Physics"
       ]
+    },
+    {
+      "name": "G.C.E Advanced Level Exam",
+      "institute": "Saranath College, Kuliyapitiya",
+      "from": "2003",
+      "to": "2012",
+      "tecTags": [
+        "Combined Mathematics",
+        "Chemestry",
+        "Physics"
+      ]
     }
+
   ]
 }
