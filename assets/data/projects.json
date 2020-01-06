@@ -68,6 +68,11 @@
           "url": "#"
         },
         {
+          "name": "WebSocket",
+          "color": "badge-warning",
+          "url": "#"
+        },
+        {
           "name": "Angular 6,8",
           "color": "badge-danger",
           "url": "#"
