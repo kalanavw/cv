@@ -20,7 +20,10 @@ export class AboutMeComponent implements OnInit {
     private configService: ConfigService,
     private http: HttpClient,
   ) {
-
+    this.aboutMe = {
+      content: '',
+      title: '',
+    };
   }
 
   ngOnInit() {
