@@ -1,3 +1,4 @@
+
 {
   "title": "Experience",
   "experience": [
@@ -14,8 +15,7 @@
       "from": "03/07/2017",
       "to": "31/07/2018",
       "tecTags": []
-    }
-    ,
+    },
     {
       "position": "Software Engineer",
       "companyName": "SCICOM Lanka PVT Ltd",
