@@ -14,10 +14,14 @@ export class CertificatesComponent implements OnInit {
     private configService: ConfigService,
     private http: HttpClient,
   ) {
-
+    this.certificates = {
+      title: '',
+      certificate: []
+    };
   }
 
   ngOnInit() {
+    console.log(this.configService.CONFIG.certificates_json);
     const httpOptions = {
       headers: new HttpHeaders(),
       withCredentials: true
