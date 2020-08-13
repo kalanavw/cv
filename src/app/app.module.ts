@@ -16,6 +16,7 @@ import {EducationComponent} from './my-cv/education/education.component';
 import {CertificatesComponent} from './my-cv/certificates/certificates.component';
 import {RefereeComponent} from './my-cv/referee/referee.component';
 import {ExternalResourcesComponent} from './my-cv/external-resources/external-resources.component';
+import {DetailCvComponent} from './detail-cv/detail-cv.component';
 
 export function initApp(http: HttpClient, config: ConfigService) {
   return () => {
@@ -39,7 +40,8 @@ export function initApp(http: HttpClient, config: ConfigService) {
     EducationComponent,
     CertificatesComponent,
     RefereeComponent,
-    ExternalResourcesComponent
+    ExternalResourcesComponent,
+    DetailCvComponent
   ],
   imports: [
     BrowserModule,
