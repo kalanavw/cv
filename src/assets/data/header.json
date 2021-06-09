@@ -1,0 +1,25 @@
+{
+  "name": "Kalana Vimukthi Weerarathne",
+  "position": "Senior Software Engineer - Full Stack Development",
+  "degree": "Univesity Of Ruhuna(Bsc)",
+  "email": "kalanavweerarathna@gmail.com",
+  "contactNo1": "+94718889214",
+  "contactNo2": "",
+  "address": "'Kumudu Villa', Havanegedara, Horombawa",
+  "github": {
+    "url": "https://github.com/kalanavw",
+    "name": "github.com/kalanavw",
+    "icon": "fa-github-square"
+  },
+  "linkedin": {
+    "url": "https://www.linkedin.com/in/kalanavw/",
+    "name": "linkedin.com/in/kalanavw",
+    "icon": "fa-linkedin-square"
+  },
+  "skype": {
+    "url": "skype:kalanaweerarathna?call",
+    "name": "live:kalanaweerarathna",
+    "icon": "fa-skype"
+  },
+  "photo": "assets/data/profile.jpg"
+}

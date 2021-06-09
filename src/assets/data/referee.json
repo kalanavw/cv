@@ -1,0 +1,23 @@
+{
+  "title": "referee details",
+  "referees": [
+    {
+      "name": "Mr. Malinga Purnasiri",
+      "position": "Software Architect- Engineering",
+      "working": "Axiata Digital Labs",
+      "email": "malingajava@gmail.com",
+      "mobile": "+94761408114",
+      "linkedin": "malinga-purnasiri",
+      "linkedin_url": "https://www.linkedin.com/in/malinga-purnasiri-57380a81/"
+    },
+    {
+      "name": "Mr. Nuwan Obeyesekera",
+      "position": "Assistant Manager – SQE Architect",
+      "working": "SCICOM Lanka (Pvt) Limited",
+      "email": "nuwan.obeyesekera@scicom.com.my",
+      "mobile": "+94770032766",
+      "linkedin_url": "https://www.linkedin.com/in/obeyesekera/",
+      "linkedin": "obeyesekera"
+    }
+  ]
+}

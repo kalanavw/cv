@@ -1,0 +1,39 @@
+{
+  "title": "Certificates",
+  "certificate": [
+    {
+      "name": "Building Scalable Java Microservices with Spring Boot and Spring Cloud",
+      "institute": "Google",
+      "from": "",
+      "to": "",
+      "tecTags": [
+        "Spring Boot",
+        "Java",
+        "Google",
+        "Microservices",
+        "Kubernetes"
+      ]
+    },
+    {
+      "name": "AWS for Developers: DynamoDB",
+      "institute": "LinkedIn",
+      "from": "",
+      "to": "",
+      "tecTags": [
+        "AWS",
+        "DynamoDB",
+        "Java",
+        "NodeJs"
+      ]
+    },
+    {
+      "name": "Software Engineering - PostgreSQL Developer training",
+      "institute": "LinkedIn",
+      "from": "",
+      "to": "",
+      "tecTags": [
+        "PostgreSQL"
+      ]
+    }
+  ]
+}
