@@ -2,6 +2,173 @@
   "title": "Projects",
   "projects": [
     {
+      "name": "Dialog DMS - Distribution Management System",
+      "modules": [
+        "User Management, ",
+        "Agent Management, ",
+        "Inventory Management, "
+      ],
+      "tecTags": [
+        {
+          "name": "Java 8",
+          "color": "badge-danger",
+          "url": "#"
+        },
+        {
+          "name": "keycloak",
+          "color": "badge-primary",
+          "url": "#"
+        },
+        {
+          "name": "Spring (Data, REST, Security)",
+          "color": "badge-success",
+          "url": "#"
+        },
+        {
+          "name": "Spring Boot",
+          "color": "badge-success",
+          "url": "#"
+        },
+        {
+          "name": "Netflix Eureka",
+          "color": "badge-primary",
+          "url": "#"
+        },
+        {
+          "name": "Netflix Zuul",
+          "color": "badge-primary",
+          "url": "#"
+        },
+        {
+          "name": "Netflix Riboon",
+          "color": "badge-primary",
+          "url": "#"
+        },
+        {
+          "name": "Netflix Hystrics",
+          "color": "badge-primary",
+          "url": "#"
+        },
+        {
+          "name": "Kafka",
+          "color": "badge-warning",
+          "url": "#"
+        },
+        {
+          "name": "git",
+          "color": "badge-warning",
+          "url": "#"
+        },
+        {
+          "name": "maven",
+          "color": "badge-warning",
+          "url": "#"
+        },
+        {
+          "name": "tomcat",
+          "color": "badge-warning",
+          "url": "#"
+        },
+        {
+          "name": "Oracle",
+          "color": "badge-primary",
+          "url": "#"
+        },
+        {
+          "name": "PostgreSQL",
+          "color": "badge-primary",
+          "url": "#"
+        },
+        {
+          "name": "linux",
+          "color": "badge-warning",
+          "url": "#"
+        }
+      ],
+      "description": "- Sales and distribution management system for field sellers"
+    },
+    {
+      "name": "NCELL - Distribution Management System",
+      "modules": [
+        "User Management, ",
+        "Agent Management, ",
+        "Inventory Management, "
+      ],
+      "tecTags": [
+        {
+          "name": "Java 8",
+          "color": "badge-danger",
+          "url": "#"
+        },
+        {
+          "name": "Spring (Data, REST, Security)",
+          "color": "badge-success",
+          "url": "#"
+        },
+        {
+          "name": "Spring Boot",
+          "color": "badge-success",
+          "url": "#"
+        },
+        {
+          "name": "Netflix Eureka",
+          "color": "badge-primary",
+          "url": "#"
+        },
+        {
+          "name": "Netflix Zuul",
+          "color": "badge-primary",
+          "url": "#"
+        },
+        {
+          "name": "Netflix Riboon",
+          "color": "badge-primary",
+          "url": "#"
+        },
+        {
+          "name": "Netflix Hystrics",
+          "color": "badge-primary",
+          "url": "#"
+        },
+        {
+          "name": "Kafka",
+          "color": "badge-warning",
+          "url": "#"
+        },
+        {
+          "name": "git",
+          "color": "badge-warning",
+          "url": "#"
+        },
+        {
+          "name": "maven",
+          "color": "badge-warning",
+          "url": "#"
+        },
+        {
+          "name": "tomcat",
+          "color": "badge-warning",
+          "url": "#"
+        },
+        {
+          "name": "Oracle",
+          "color": "badge-primary",
+          "url": "#"
+        },
+        {
+          "name": "PostgreSQL",
+          "color": "badge-primary",
+          "url": "#"
+        },
+        {
+          "name": "linux",
+          "color": "badge-warning",
+          "url": "#"
+        }
+      ],
+      "description": "- Sales and distribution management system for field sellers"
+    },
+    {
       "name": "SIBMS - Border Management System",
       "modules": [
         "User Management, ",

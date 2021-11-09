@@ -3,17 +3,17 @@
   "title": "Experience",
   "experience": [
     {
-      "position": "Associate Software Engineer",
-      "companyName": "Australian Strategic Partnerships",
-      "from": "09/01/2017",
-      "to": "03/07/2017",
+      "position": "Senior Software Engineer",
+      "companyName": "Axiata Digital Labs",
+      "from": "20/08/2020",
+      "to": "",
       "tecTags": []
     },
     {
-      "position": "Software Engineer",
-      "companyName": "Australian Strategic Partnerships",
-      "from": "03/07/2017",
-      "to": "31/07/2018",
+      "position": "Senior Software Engineer",
+      "companyName": "SCICOM Lanka PVT Ltd",
+      "from": "01/04/2020",
+      "to": "20/08/2020",
       "tecTags": []
     },
     {
@@ -24,10 +24,17 @@
       "tecTags": []
     },
     {
-      "position": "Senior Software Engineer",
-      "companyName": "SCICOM Lanka PVT Ltd",
-      "from": "01/04/2020",
-      "to": "",
+      "position": "Software Engineer",
+      "companyName": "Australian Strategic Partnerships",
+      "from": "03/07/2017",
+      "to": "31/07/2018",
+      "tecTags": []
+    },
+    {
+      "position": "Associate Software Engineer",
+      "companyName": "Australian Strategic Partnerships",
+      "from": "09/01/2017",
+      "to": "03/07/2017",
       "tecTags": []
     }
   ]

@@ -13,6 +13,27 @@
         "Microservices",
         "Kubernetes"
       ]
+    },
+    {
+      "name": "AWS for Developers: DynamoDB",
+      "institute": "LinkedIn",
+      "from": "",
+      "to": "",
+      "tecTags": [
+        "AWS",
+        "DynamoDB",
+        "Java",
+        "NodeJs"
+      ]
+    },
+    {
+      "name": "Software Engineering - PostgreSQL Developer training",
+      "institute": "LinkedIn",
+      "from": "",
+      "to": "",
+      "tecTags": [
+        "PostgreSQL"
+      ]
     }
   ]
 }
