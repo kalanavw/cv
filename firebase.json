@@ -1,0 +1,16 @@
+{
+  "hosting": {
+    "public": "dist/cv",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "cv/index.html"
+      }
+    ]
+  }
+}
