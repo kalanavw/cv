@@ -12,6 +12,8 @@ import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatIconModule } from '@angular/material/icon';
 import { MatListModule } from '@angular/material/list';
 import {environment} from "../environments/environment";
+import {AngularFireModule} from "@angular/fire/compat";
+import {AngularFireAnalyticsModule} from "@angular/fire/compat/analytics";
 
 
 @NgModule({
@@ -23,6 +25,8 @@ import {environment} from "../environments/environment";
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
+    AngularFireModule.initializeApp(environment.firebase),
+    AngularFireAnalyticsModule,
     LayoutModule,
     MatToolbarModule,
     MatButtonModule,

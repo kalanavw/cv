@@ -1,12 +1,12 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyCywHeTWTWnH-8Bot_H1Pf4JbUkBnLukuU",
-    authDomain: "webtool-e81ee.firebaseapp.com",
-    projectId: "webtool-e81ee",
-    storageBucket: "webtool-e81ee.appspot.com",
-    messagingSenderId: "803607762066",
-    appId: "1:803607762066:web:a17967256c9bafd22a824b",
-    measurementId: "G-8YQ99YZL40"
+    apiKey: "AIzaSyDEAwfS5G9cWv2kGc2-MJMi1aHqb__3Dfk",
+    authDomain: "resume-d1c7f.firebaseapp.com",
+    projectId: "resume-d1c7f",
+    storageBucket: "resume-d1c7f.appspot.com",
+    messagingSenderId: "295163190728",
+    appId: "1:295163190728:web:bac1a8d4ee3e9fb1d034fd",
+    measurementId: "G-0WP70Q0Q6Q"
   }
 };
