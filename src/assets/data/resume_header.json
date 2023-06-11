@@ -1,0 +1,38 @@
+{
+  "title": "UI Designer &middot; FUll Stack Developer &middot; Technical Writter &middot; Blogger",
+  "name": "Kalana Weerarathna",
+  "summary": "I am a moonlighting professional with a passion for creating interfaces that are not only enjoyable and practical but also user-centric. My skills span both front-end and back-end development, allowing me to bring these interfaces to life with seamless functionality. With a strong focus on user experience, I strive to build web applications that are engaging, efficient, and user-friendly.",
+  "social": [
+    {
+      "url": "https://github.com/kalanavw",
+      "name": "github.com/kalanavw",
+      "icon": "bi bi-github",
+      "target": "_blank"
+    },
+    {
+      "url": "https://www.linkedin.com/in/kalanavw/",
+      "name": "linkedin.com/in/kalanavw",
+      "icon": "bi bi-linkedin",
+      "target": "_blank"
+    },
+    {
+      "url": "https://stackoverflow.com/users/8112615/kalana-weerarathne",
+      "name": "stackoverflow",
+      "icon": "bi bi-stack-overflow",
+      "target": "_blank"
+    },
+    {
+      "url": "mailto:kalanavweerarathna@gmail.com",
+      "name": "kalanavweerarathna@gmail.com",
+      "icon": "bi bi-envelope-fill",
+      "target": "blank_"
+    },
+    {
+      "url": "skype:kalanaweerarathna?chat",
+      "name": "live:kalanaweerarathna",
+      "icon": "bi bi-skype",
+      "target": "skype:kalanaweerarathna?chat"
+    }
+  ],
+  "profileImage": ""
+}
