@@ -22,16 +22,22 @@
       "target": "_blank"
     },
     {
+      "url": "https://medium.com/@kalanaweerarathne",
+      "name": "medium.com",
+      "icon": "bi bi-medium",
+      "target": "_blank"
+    },
+    {
       "url": "mailto:kalanavweerarathna@gmail.com",
       "name": "kalanavweerarathna@gmail.com",
       "icon": "bi bi-envelope-fill",
       "target": "blank_"
     },
     {
-      "url": "skype:kalanaweerarathna?chat",
-      "name": "live:kalanaweerarathna",
-      "icon": "bi bi-skype",
-      "target": "skype:kalanaweerarathna?chat"
+      "url": "cv url",
+      "name": "Kalana Weerarathna",
+      "icon": "bi bi-person-fill",
+      "target": "_blank"
     }
   ],
   "profileImage": ""
